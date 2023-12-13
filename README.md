@@ -4,9 +4,7 @@ Olá! 👋 Eu sou Rodrigo, mas pode me chamar de Biro, um entusiasta de desenvol
 
 ## Sobre mim
 
-Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniasselvi, mergulhando em um vasto leque de sistemas e linguagens, incluindo C, PHP, VBA, JAVA, SQL, Python, Javascript, HTML, CSS, entre outros.
-
-**Experiência Profissional em Logística e Controladoria de Inventário**: Meu histórico inclui vivência em Logística Física, abrangendo áreas como Armazenagem, Transporte e Expedição. Trabalhei em empresas nos setores Têxtil e Metal mecânica, com destaque para o uso de sistemas ERP (TOTVs e SAP) para consultas e transações.
+Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniasselvi, focado em sistemas e linguagens, incluindo C, PHP, VBA, JAVA, SQL, Python, Javascript, HTML, CSS, entre outros.
 
 **Aprimoramento em Controle de Estoque e Inventário**: Desempenhei funções de inventário com Excel, VBA e Power BI para otimização processos.
 
