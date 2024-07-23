@@ -4,7 +4,7 @@ Olá! 👋 Eu sou Rodrigo, mas pode me chamar de Biro, um entusiasta de desenvol
 
 ## Sobre mim
 
-Atualmente, estou cursando Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniasselvi, focado em sistemas e linguagens, incluindo C, PHP, VBA, JAVA, SQL, Python, Javascript, HTML, CSS, entre outros.
+Atualmente, formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniasselvi, focado em sistemas e linguagens, incluindo C, PHP, VBA, JAVA, SQL, Python, Javascript, HTML, CSS, entre outros.
 
 **Aprimoramento em Controle de Estoque e Inventário**: Desempenhei funções de inventário com Excel, VBA e Power BI para otimização processos.
 
