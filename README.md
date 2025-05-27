@@ -1,6 +1,5 @@
 # Desenvolvedor em Constante Evolução 👨‍💻
 
-Olá! 👋 Eu sou Rodrigo, mas pode me chamar de Biro, um entusiasta de desenvolvimento em constante jornada de aprendizado e aprimoramento.
 
 ## Sobre mim
 
