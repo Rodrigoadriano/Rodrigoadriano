@@ -1,6 +1,3 @@
-# Desenvolvedor em Constante Evolução 👨‍💻
-
-
 ## Sobre mim
 
 Atualmente, formado em Tecnólogo em Análise e Desenvolvimento de Sistemas pela Uniasselvi, focado em sistemas e linguagens, incluindo C, PHP, VBA, JAVA, SQL, Python, Javascript, HTML, CSS, entre outros.
